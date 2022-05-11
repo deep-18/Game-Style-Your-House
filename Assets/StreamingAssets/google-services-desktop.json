@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "615522267490",
+    "project_id": "styleyourhouse-4a0bc",
+    "storage_bucket": "styleyourhouse-4a0bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615522267490:android:d31764c7c4d6073af23c3b",
+        "android_client_info": {
+          "package_name": "com.Furniture.ASEProject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615522267490-ue4s8qu0d149ke1hgmq7ua6p8hemm146.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEHFUf2TrrQblwmh1m4eC73QGuHJQZWpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615522267490-ue4s8qu0d149ke1hgmq7ua6p8hemm146.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

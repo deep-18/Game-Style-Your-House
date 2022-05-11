@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id">
+  <string name="gcm_defaultSenderId" translatable="false">615522267490</string>
+  <string name="google_storage_bucket" translatable="false">styleyourhouse-4a0bc.appspot.com</string>
+  <string name="project_id" translatable="false">styleyourhouse-4a0bc</string>
+  <string name="google_api_key" translatable="false">AIzaSyBEHFUf2TrrQblwmh1m4eC73QGuHJQZWpU</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBEHFUf2TrrQblwmh1m4eC73QGuHJQZWpU</string>
+  <string name="google_app_id" translatable="false">1:615522267490:android:d31764c7c4d6073af23c3b</string>
+  <string name="default_web_client_id" translatable="false">615522267490-ue4s8qu0d149ke1hgmq7ua6p8hemm146.apps.googleusercontent.com</string>
+</resources>
